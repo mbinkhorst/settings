@@ -1,0 +1,58 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Blade files</id>
+              </State>
+              <State>
+                <id>CSS</id>
+              </State>
+              <State>
+                <id>Code StylePHP</id>
+              </State>
+              <State>
+                <id>Ini Files</id>
+              </State>
+              <State>
+                <id>Invalid elementsCSS</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>UnusedPHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Blade files</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="reference.idesettings.emmet" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
