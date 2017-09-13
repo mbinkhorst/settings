@@ -1,19 +1,15 @@
 <scheme name="MB-SpacePeacock" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Inconsolata-g" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
-  <option name="EDITOR_FONT_NAME" value="Inconsolata-g" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -621,8 +617,7 @@
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.PARAMETER">
       <value>
-        <option name="EFFECT_COLOR" value="dee3ec" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
