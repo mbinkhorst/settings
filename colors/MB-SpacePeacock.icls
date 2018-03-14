@@ -346,7 +346,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FOREGROUND" value="d4d1cf" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -358,7 +358,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="dee3ec" />
+        <option name="FOREGROUND" value="598b0" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -380,7 +380,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="26a6a6" />
+        <option name="FOREGROUND" value="a2b2cc" />
       </value>
     </option>
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -404,6 +404,11 @@
         <option name="FOREGROUND" value="26a6a6" />
       </value>
     </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="fffcfa" />
+      </value>
+    </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -411,13 +416,11 @@
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
-      <value>
-        <option name="FOREGROUND" value="dee3ec" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FOREGROUND" value="88cf45" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -779,6 +782,11 @@
         <option name="FOREGROUND" value="26a6a6" />
       </value>
     </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="b8a846" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
@@ -787,12 +795,12 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="dee3ec" />
+        <option name="FOREGROUND" value="d1cb68" />
       </value>
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="dee3ec" />
+        <option name="FOREGROUND" value="d1cb68" />
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">

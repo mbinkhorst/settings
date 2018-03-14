@@ -5,9 +5,5 @@
   <component name="EditorSettings">
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
-  <component name="LiveEditOptions" autoDelay="500" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="500" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
 </application>
