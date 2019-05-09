@@ -778,8 +778,37 @@
         <option name="FOREGROUND" value="8000" />
       </value>
     </option>
+    <option name="PERL_LABEL">
+      <value>
+        <option name="FOREGROUND" value="598b0" />
+        <option name="EFFECT_COLOR" value="0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PERL_REGEX_TOKEN">
       <value />
+    </option>
+    <option name="PERL_SUB">
+      <value>
+        <option name="FOREGROUND" value="fffb5a" />
+      </value>
+    </option>
+    <option name="PERL_SUB_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="ffe234" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_SUB_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ffee31" />
+      </value>
+    </option>
+    <option name="PERL_XSUB">
+      <value>
+        <option name="FOREGROUND" value="ff9b35" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="PHP_CONSTANT">
       <value>
