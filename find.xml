@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Controllers/ObjectsController.php [brs]'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/ObjectsController.php [brs]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/ObjectsController.php [brs]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
