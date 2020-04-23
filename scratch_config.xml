@@ -3,12 +3,9 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.php" />
-        <option value="scratch_1.php" />
         <option value="heesen scratch.php" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_1.php" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
